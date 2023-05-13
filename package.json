@@ -1,0 +1,13 @@
+{
+  "name": "crawling-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hshjmiso/crawling-nodejs.git",
+  "author": "heesu <sw6297@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "diff": "^5.1.0"
+  }
+}
